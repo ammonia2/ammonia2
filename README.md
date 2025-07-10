@@ -1,5 +1,4 @@
-## Hi there. This is Abdullah. 👋
-
+# 👋 Hi there! This is Abdullah. 
 I'm studying AI at NUCES Fast Islamabad. I've a diaspora of skillset ranging from low-level systems programming to backend development.
 
 ```
