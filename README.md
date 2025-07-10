@@ -22,6 +22,8 @@ I'm studying AI at NUCES Fast Islamabad. I've a diaspora of skillset ranging fro
     └───────────────┘
 ```
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammonia2&layout=compact&theme=dark)
+
 ## Current Focus
 
 I'm currently exploring the intersection of systems programming and modern web technologies, with a particular interest in performance optimization and creating efficient, scalable solutions.
